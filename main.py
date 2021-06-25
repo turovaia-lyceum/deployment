@@ -17,7 +17,7 @@ def index():
                     integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" 
                     crossorigin="anonymous">
                     <link rel="stylesheet" type="text/css" href="{url_for('static', filename='css/style.css')}" />
-                    <title>Привет, Яндекс!</title>
+                    <title>Ура!</title>
                   </head>
                   <body>
                   <div class="row">
